@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on a decision tree project.<br>👯 I’m looking to collaborate on compilers and operating systems.<br>🤝 I’m looking for help with learning more about pandas and numpy.<br>🌱 I’m currently learning data structures.<br>💬 Ask me about anything!<br>⚡ Fun fact I like to play chess
+🔭 I’m currently working on honing my system design skills.<br>👯 I’m looking to collaborate on inteview prep.<br>🌱 I’m currently learning more about code review processes and how to write production grade code at a fast pace.<br>💬 Ask me about anything!<br>⚡ Fun fact I like to play chess
 
 
 ## 🌐 Socials:
